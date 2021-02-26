@@ -1,1 +1,1 @@
-# matlab_to_vtk_structured_grid
+Output Matlab scalar/vector to VTK (structured_grid) using vtkwrite library from https://github.com/joe-of-all-trades/vtkwrite
